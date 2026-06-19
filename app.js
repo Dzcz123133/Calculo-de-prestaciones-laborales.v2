@@ -1,3 +1,4 @@
+console.log("JS cargó bien bro 😎");
 function diasEntre(fecha1, fecha2){
     let inicio = new Date(fecha1);
     let fin = new Date(fecha2);
